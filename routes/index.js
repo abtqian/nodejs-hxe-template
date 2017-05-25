@@ -3,7 +3,7 @@ var hdb    = require('hdb');
  
 var router = express.Router();
 var client = hdb.createClient({
-  host     : '35.185.237.5',
+  host     : '104.198.7.236',
   port     : 39013,
   user     : 'SYSTEM',
   password : 'bemT4amt'
